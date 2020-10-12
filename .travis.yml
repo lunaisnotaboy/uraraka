@@ -1,2 +1,4 @@
 language: php
+php:
+  - 7.3.19
 install: composer install
